@@ -3,17 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DMCLAPI's documentation!
+欢迎来到 DMCLAPI 的开发文档
 ===================================
 
-Contents:
+目录:
 
 .. toctree::
    :maxdepth: 2
 
+   about
+   contract
+   entry
+   donations
 
-
-Indices and tables
+索引和表 
 ==================
 
 * :ref:`genindex`
